@@ -1,0 +1,3 @@
+Maria|32|Oradea
+Ioana|42|Bucuresti
+Campioana|99|Constanta
